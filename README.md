@@ -48,7 +48,7 @@ Downloads/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/downloads-organizer.git
+git clone https://github.com/Ovez-ui/downloads-organizer.git
 cd downloads-organizer
 ```
 
